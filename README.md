@@ -5,13 +5,7 @@
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
-> **An enterprise-grade, end-to-end data engineering solution built on Google Cloud Platform for retail analytics**
-
-Transform raw retail data into actionable business insights using modern cloud-native technologies. This project demonstrates a complete data pipeline from ingestion to analytics, implementing industry best practices for data lake architecture.
-
----
 
 ## 📋 Table of Contents
 
