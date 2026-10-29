@@ -21,8 +21,6 @@
 - [Configuration](#-configuration)
 - [Deployment](#-deployment)
 - [Use Cases](#-use-cases)
-- [License](#-license)
-- [Contact](#-contact)
 
 ---
 
